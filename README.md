@@ -2,6 +2,9 @@
 
 This is a Flutter-based weather app that allows users to check the weather conditions for cities across India. It provides real-time weather information, including temperature, humidity, wind speed, and more.
 
+for more update/pics just check this Linkein link : 
+https://www.linkedin.com/feed/update/urn:li:activity:7097509090930651137?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7097509090930651137%29
+
 ## Features
 
 City Selection: Users can choose from Indian cities to check the weather.
